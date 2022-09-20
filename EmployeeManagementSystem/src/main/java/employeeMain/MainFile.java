@@ -6,6 +6,8 @@ public class MainFile {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Employee Management System");
+		
+		System.out.println("This is from perosnal system");
 
 	}
 
