@@ -19,5 +19,9 @@ In React :
   * React Hook and Redux
   * Bootstrap
 
+Folder Structure: (2 main folders)
+
+  => EMS-backend //this is the java file
+  => ems-frontend //this is the REACT file.
 
 
