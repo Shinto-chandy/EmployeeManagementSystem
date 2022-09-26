@@ -23,7 +23,7 @@ Folder Structure: (2 main folders)
 
   => EMS-backend //this is the java file
   => ems-frontend //this is the REACT file.
-  => Screenshots // contains what all are the details done in our applicat
+  => Screenshots // contains what all are the details done in our application
  
 How to Run and Install the packages:
   # For Spring Boot: 
@@ -42,9 +42,8 @@ How to Run and Install the packages:
  # Tóols Used:
     * Eclipse IDE (Java)
     * VSCode (React)
-    * MariaDb  (Database) 
-    * Postman 
-
+    * HeidiSQL (MariaDB DB) 
+    * Postman (API Testing)
 
 
 
